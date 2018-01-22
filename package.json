@@ -20,7 +20,6 @@
     "serve-favicon": "~2.4.5"
   }
 }
-=======
 {
     "name": "mynodeserver",
     "description": "Simple Hello World Node.js sample",
@@ -33,4 +32,3 @@
         "start": "node index.js"
     }
 }
->>>>>>> origin/master
