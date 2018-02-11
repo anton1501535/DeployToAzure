@@ -1,0 +1,7 @@
+extends layout
+
+block content
+    h1='What am I making this app do and for who'
+    ul
+        each tarkoitus in purposelist
+            li= tarkoitus.why + ' ' +tarkoitus.who
